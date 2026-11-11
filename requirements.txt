@@ -1,0 +1,13 @@
+# NyayaAgent — requirements
+
+# Core MVP: stdlib only (Python 3.11+). No install needed.
+# Run: python3 agent.py "..." / python3 -m unittest discover -s tests
+
+# Full stack (spec §6/§8) — install for the Streamlit UI + dense retrieval:
+# streamlit>=1.37
+# langgraph>=0.2
+# langchain>=0.3
+# chromadb>=0.5
+# sentence-transformers==3.0.1
+# rank-bm25>=0.2.2
+# ragas>=0.2
