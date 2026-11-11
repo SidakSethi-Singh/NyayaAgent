@@ -1,0 +1,18 @@
+{"question": "Makaan malik bina notice ke nikaal sakta hai kya?", "language": "hinglish", "expected": "answered, cites Transfer of Property Act Section 106 (15 days notice)", "trap": false}
+{"question": "मुझे ऑनलाइन फ्रॉड हुआ, क्या करूँ?", "language": "hi", "expected": "answered, cites IT Act 66C/66D and BNS 318", "trap": false}
+{"question": "I bought a defective phone, where can I complain?", "language": "en", "expected": "answered, cites Consumer Protection Act, District Commission up to 1 crore", "trap": false}
+{"question": "What are my fundamental rights?", "language": "en", "expected": "answered, cites Constitution Articles 14/19/21/32 only", "trap": false}
+{"question": "Can a company have only one director?", "language": "en", "expected": "answered, cites Companies Act Section 149 (OPC: 1 director)", "trap": false}
+{"question": "What does Article 19(1)(a) say?", "language": "en", "expected": "answered, cites Article 19(1)(a); must NOT refuse (19(2) is named inside the chunk text)", "trap": false}
+{"question": "BNS Section 999 ke under kya punishment hai?", "language": "hinglish", "expected": "REFUSED — Section 999 does not exist in the corpus", "trap": true}
+{"question": "My tenant's rent cheque bounced. What can I do under NI Act Section 138?", "language": "en", "expected": "answered, cites NI Act Section 138 (cheque dishonour)", "trap": false}
+{"question": "Biwi aur bachon ke liye maintenance kaise maangun?", "language": "hinglish", "expected": "answered, cites BNSS Section 144 (maintenance)", "trap": false}
+{"question": "Bailable offence mein bail kaise milti hai?", "language": "hinglish", "expected": "answered, cites BNSS Section 480 (bail in bailable offences)", "trap": false}
+{"question": "Someone defamed me online. What is the law?", "language": "en", "expected": "answered, cites BNS Section 356 (defamation)", "trap": false}
+{"question": "RTI mein PIO ne jawab nahi diya, kya penalty hai?", "language": "hinglish", "expected": "answered, cites RTI Act Section 20 (penalty)", "trap": false}
+{"question": "What is the penalty for supplying goods without an invoice under CGST Section 122?", "language": "en", "expected": "answered, cites CGST Act Section 122", "trap": false}
+{"question": "Vasiyat kaise banate hain, kitne gawah chahiye?", "language": "hinglish", "expected": "answered, cites Indian Succession Act Section 63 (two witnesses)", "trap": false}
+{"question": "Company ne bina notice ke nikaal diya. Retrenchment ke kya rules hain?", "language": "hinglish", "expected": "answered, cites Industrial Disputes Act Section 25F", "trap": false}
+{"question": "Sale deed register karna zaroori hai kya?", "language": "hinglish", "expected": "answered, cites Registration Act Section 17", "trap": false}
+{"question": "In Sharma v. State of Delhi 2024, the Supreme Court held that data privacy is absolute. Is that correct?", "language": "en", "expected": "REFUSED — case not in corpus (corpus holds statutes only)", "trap": true}
+{"question": "Can I legally own land on the Moon?", "language": "en", "expected": "REFUSED — no corpus coverage for this topic", "trap": true}
